@@ -17,6 +17,7 @@ Automate and optimize your LinkedIn content creation process by analyzing trends
 
 ## Folder Structure
 
+```plaintext
 linkedin-ai-agent/
 ├── config/
 │ ├── init.py
@@ -37,7 +38,7 @@ linkedin-ai-agent/
 ├── requirements.txt
 ├── .env.example
 └── README.md
-
+```
 
 
 ---
